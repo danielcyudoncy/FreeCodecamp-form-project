@@ -1,0 +1,121 @@
+body{
+    background: linear-gradient(90deg, red, black);
+    font-family: Poppins, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    line-height: 1.9;
+    
+}
+
+
+#title{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#description{
+    color: white;
+    text-align: center;
+}
+
+.container{
+    background-color: rgb(50, 50, 126);
+    width: 700px;
+    margin: 50px auto;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+h1, p{
+    margin-top: 0;
+    margin-bottom: -10px;
+
+}
+
+label{
+    width: 5000px;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: lighter;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+
+#name{
+    width: 640px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+#email{
+    width: 640px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+
+#number{
+    width: 640px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+
+#dropdown{
+    width: 660px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+
+option{
+letter-spacing: 10px;
+font-size: 17px;
+}
+
+#radio1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#radio2{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#radio3{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#checkbox1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+textarea{
+    width: 640px;
+    margin-left: 20px;
+    
+}
+
+#submit{
+    background-color: rgb(29, 143, 86);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bolder;
+    border-style: none;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    margin-left: 20px;
+    width: 645px;
+    padding: 10px;
+   
+}
+   
